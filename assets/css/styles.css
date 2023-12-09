@@ -159,6 +159,10 @@ font-size: calc(25px + 0.1vw);
 font-weight: 700;
 }
 
+marquee{
+text-align: center;
+width: auto;
+}
 
 
 
