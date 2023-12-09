@@ -1,0 +1,193 @@
+@import url(https://db.onlinewebfonts.com/c/0435447fd9d43de93de189e00f2f3dcf?family=Cerebri+Sans+Pro);
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: 'Cerebri Sans Pro';
+}
+
+a {
+ text-decoration: none;
+}
+
+/* Nav Bar */
+nav.styt {
+ padding: 9px 0;
+}
+
+a.navbar-brand {
+ margin: 5px 0 0;
+ padding: 0;
+ width: 210px;
+}
+
+.sicon {
+ width: 85%;
+}
+
+a.nav-link {
+ color: #333;
+ font-size: calc(14.5px + 0.1vw);
+ font-weight: 600;
+ padding: 0 5px 0 0;
+ letter-spacing: 0.3px;
+}
+
+a.nav-link:hover {
+ color: #003399;
+ text-decoration: underline;
+}
+
+li.ttu {
+ display: none;
+}
+
+button.bn1 {
+ background-color: #003399;
+ color: #fff;
+ font-size: calc(14.5px + 0.1vw);
+ padding: 7px 35px;
+ font-weight: 600;
+ border: none;
+ border-radius: 4px;
+}
+
+button.bn1:hover {
+ background-color: #052d79;
+ color: #fff;
+ font-size: calc(14.5px + 0.1vw);
+ padding: 7px 35px;
+ font-weight: 600;
+ border: none;
+}
+
+/* Hero Section */
+#hero {
+ background-color: #003399;
+ padding: 5% 20px 4%;
+}
+
+.heroh1 {
+ margin-top: 50px;
+ font-size: calc(47px + 0.1vw);
+ color: #fff;
+ font-weight: 900;
+ padding-right: 20px;
+ letter-spacing: 0.5px;
+ line-height: 1.25;
+}
+
+.herop {
+ font-size: calc(17px + 0.1vw);
+ color: #eee;
+ font-weight: 500;
+ padding-right: 13%;
+ line-height: 1.45;
+ letter-spacing: -0.1px;
+}
+
+button.b1 {
+ background-color: #fff;
+ color: #003399;
+ font-size: calc(16px + 0.1vw);
+ font-weight: 500;
+ border-radius: 4px;
+ border: 1px solid #fff;
+ padding: 8px 30px;
+ margin: 0 10px 0 0;
+ letter-spacing: -0.5px;
+}
+
+button.b1:hover {
+ background-color: #003399;
+ color: #fff;
+}
+
+button.b2 {
+ background-color: #003399;
+ color: #fff;
+ font-size: calc(16px + 0.1vw);
+ font-weight: 500;
+ border-radius: 4px;
+ border: 1px solid #fff;
+ padding: 8px 30px;
+ margin: 0 10px 0 0;
+ letter-spacing: -0.5px;
+}
+
+button.b2:hover {
+ background-color: #fff;
+ color: #003399;
+ border: 1px solid #fff;
+}
+
+img.hero-img {
+ width: 95%;
+ margin: auto;
+
+ /* Bounce Effect */
+
+ top: 0;
+ left: 0;
+ animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+ 0% {
+  transform: translateY(0);
+ }
+
+ 50% {
+  transform: translateY(-5px);
+ }
+
+ 100% {
+  transform: translateY(0);
+ }
+}
+
+/* Trusted Industry Leaders */
+#trusted {
+ padding: 3% 20px;
+ background-color: #fff;
+ text-align: center;
+}
+
+#trusted h1{
+font-size: calc(25px + 0.1vw);
+font-weight: 700;
+}
+
+
+
+
+
+
+
+/* Responsiveness */
+
+/* Tabelet View */
+
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+ div.btnarea {
+  display: none;
+ }
+
+ li.ttu {
+  display: contents;
+ }
+}
+
+/* Mobile View */
+
+@media only screen and (max-width: 767px) and (min-width: 320px) {
+
+ div.btnarea {
+  display: none;
+ }
+
+ li.ttu {
+  display: contents;
+ }
+}
