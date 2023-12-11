@@ -128,8 +128,6 @@ img.hero-img {
 
  /* Bounce Effect */
 
- top: 0;
- left: 0;
  animation: bounce 2s infinite;
 }
 
@@ -488,6 +486,11 @@ div.pricingbtn {
  border-radius: 16px;
 }
 
+.pcontb:hover {
+ transition: ease-in-out 0.4s;
+ scale: 1.02;
+}
+
 .pcontb h4 {
  color: #fff;
  font-size: calc(12px + 0.2vw);
@@ -550,6 +553,184 @@ div.pricingbtn {
  background-color: #eee;
  color: #003399;
 }
+
+/* Testimonials */
+#testimonials {
+ padding: 6% 8.5% 4%;
+ background-color: #F2F2F7;
+}
+
+#testimonials h3 {
+ text-transform: uppercase;
+ color: #003399;
+ font-size: calc(15px + 0.1vw);
+ font-weight: 600;
+ letter-spacing: 0.2px;
+ margin: 0 0 13px;
+ padding: 0;
+ text-align: center;
+}
+
+#testimonials h2 {
+ margin: 0 0 55px;
+ padding: 0;
+ font-size: calc(25px + 0.1vw);
+ font-weight: 700;
+ letter-spacing: 0.3px;
+ text-align: center;
+}
+
+.testimg {
+ width: 97%;
+ z-index: 0;
+ margin-left: auto;
+ margin-right: auto;
+ padding: 0;
+}
+
+.like {
+ text-align: left;
+ z-index: 1;
+ margin-top: -40px;
+ margin-left: -15px;
+ width: 13%;
+}
+
+.tumb {
+ width: 9%;
+ margin-left: 85%;
+ padding: 0;
+}
+
+div.testcont {
+ padding: 5px 30px;
+}
+
+.quot {
+ width: 8%;
+ padding: 0;
+ margin-bottom: 25px;
+}
+
+.testp {
+ font-size: calc(16.5px + 0.1vw);
+ padding-right: 50px;
+ line-height: 1.65;
+ letter-spacing: 0.3px;
+ margin-bottom: 45px;
+}
+
+.ceo {
+ color: #003399;
+ font-size: calc(17px + 0.1vw);
+ font-weight: 600;
+ margin: 0;
+ padding: 0;
+ letter-spacing: 0.3px;
+}
+
+.compy {
+ font-size: calc(15px + 0.1vw);
+ color: #828282;
+ font-weight: 400;
+ letter-spacing: 0.4px;
+ margin: 0;
+}
+
+.navbts {
+ padding: 0;
+ margin: 30px 0 0 79%;
+}
+
+.navbts button {
+ padding: 3px;
+ margin: 0;
+ border: none;
+}
+
+.navbts button:hover {
+ border: none;
+}
+
+.navbts svg.leff {
+ color: #8480ae9a;
+ font-size: 30px;
+}
+
+.navbts svg.rigg {
+ color: #003399;
+ font-size: 30px;
+}
+
+
+/* FAQs */
+#faqs {
+ padding: 4% 20px;
+}
+
+div.fqc {
+ margin-top: 60px;
+}
+
+#faqs h3 {
+ text-transform: uppercase;
+ color: #003399;
+ font-size: calc(15px + 0.15vw);
+ font-weight: 600;
+ letter-spacing: 0.4px;
+ margin: 0 0 10px;
+ padding: 0;
+}
+
+#faqs h2 {
+ margin: 0 0 35px;
+ padding: 0;
+ font-size: calc(27px + 0.1vw);
+ font-weight: 700;
+ letter-spacing: 0.3px;
+}
+
+#faqs h4 {
+ font-size: calc(19px + 0.15vw);
+ font-weight: 600;
+ letter-spacing: 0.4px;
+ margin: 5px 0;
+}
+
+#faqs p {
+ font-size: calc(17px + 0.1vw);
+ letter-spacing: 0.4px;
+ line-height: 1.65;
+ margin-bottom: 25px;
+}
+
+#faqs span{
+ text-transform: capitalize;
+ text-decoration: underline;
+ font-weight: 600;
+}
+
+.faq {
+ width: 98%;
+ margin-left: 20px;
+ margin-right: auto;
+
+ /* Bounce Effect */
+ animation: bounce 2s infinite;
+}
+
+#faqs h5{
+ font-size: calc(18px + 0.1vw);
+ font-weight: 600;
+ letter-spacing: 0.4px;
+ margin: 30px 0;
+}
+
+
+
+
+
+
 
 
 
