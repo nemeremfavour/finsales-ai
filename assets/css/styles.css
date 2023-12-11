@@ -174,7 +174,7 @@ div.vals {
 }
 
 div.val {
-width: 48%;
+ width: 48%;
 }
 
 #our-values img {
@@ -340,9 +340,10 @@ div.sol {
 #pricing {
  background-color: #080712;
  text-align: center;
- padding: 3% 20px;
+ padding: 3% 20px 7%;
  color: #fff;
  letter-spacing: 0.2px;
+ z-index: 0;
 }
 
 #pricing h5 {
@@ -401,6 +402,157 @@ div.pricingbtn {
  background-color: #012970;
  color: #fff;
 }
+
+/* Price Table */
+#prices {
+ padding: 0 20px 5%;
+ z-index: 1;
+ background-color: #fff;
+}
+
+.pcont {
+ background-color: #fff;
+ box-shadow: 1px 4px 10px #00000031;
+ padding: 50px 15px 50px 30px;
+ margin: -65px 0 0;
+ border-radius: 16px;
+}
+
+.pcont h4 {
+ color: #003399;
+ font-size: calc(12px + 0.2vw);
+ font-weight: 600;
+ letter-spacing: 0.3px;
+ margin: 0 0 10px;
+ padding: 0;
+}
+
+.pcont h2 {
+ color: #000;
+ font-size: calc(30px + 0.2vw);
+ font-weight: 900;
+ letter-spacing: 0.1px;
+ margin: 0 0 10px;
+ padding: 0;
+}
+
+.month {
+ color: #808080d8;
+ font-size: calc(14px + 0.1vw);
+ font-weight: 600;
+ letter-spacing: 0.1px;
+ padding: 0;
+ margin: 0 0 10px;
+}
+
+.pcont ul {
+ padding: 0;
+ margin: 0 0 25px;
+ list-style: none;
+}
+
+.pcont svg {
+ margin-right: 10px;
+ color: #003399;
+ font-size: calc(14px + 0.1vw);
+}
+
+.pcont li {
+ padding: 0;
+ margin: 0 0 8px;
+ font-size: calc(13px + 0.15vw);
+ letter-spacing: 0.2px;
+}
+
+.pcont .buynow {
+ background-color: #003399;
+ color: #fff;
+ padding: 7px 22px;
+ font-size: calc(11px + 0.15vw);
+ font-weight: 300;
+ border-radius: 4px;
+ letter-spacing: 0.2px;
+ border: none;
+}
+
+.pcont .buynow:hover {
+ background-color: #012970;
+ color: #fff;
+}
+
+.pcontb {
+ background-color: #003399;
+ box-shadow: 1px 4px 10px #00000031;
+ padding: 50px 15px 50px 30px;
+ margin: -65px 0 0;
+ border-radius: 16px;
+}
+
+.pcontb h4 {
+ color: #fff;
+ font-size: calc(12px + 0.2vw);
+ font-weight: 600;
+ letter-spacing: 0.3px;
+ margin: 0 0 10px;
+ padding: 0;
+}
+
+.pcontb h2 {
+ color: #fff;
+ font-size: calc(30px + 0.2vw);
+ font-weight: 900;
+ letter-spacing: 0.1px;
+ margin: 0 0 10px;
+ padding: 0;
+}
+
+.monthb {
+ color: #fff;
+ font-size: calc(14px + 0.1vw);
+ font-weight: 600;
+ letter-spacing: 0.1px;
+ padding: 0;
+ margin: 0 0 10px;
+}
+
+.pcontb ul {
+ padding: 0;
+ margin: 0 0 25px;
+ list-style: none;
+}
+
+.pcontb svg {
+ margin-right: 10px;
+ color: #fff;
+ font-size: calc(14px + 0.1vw);
+}
+
+.pcontb li {
+ color: #fff;
+ padding: 0;
+ margin: 0 0 8px;
+ font-size: calc(13px + 0.15vw);
+ letter-spacing: 0.2px;
+}
+
+.pcontb .buynow {
+ background-color: #fff;
+ color: #003399;
+ padding: 7px 22px;
+ font-size: calc(11px + 0.15vw);
+ font-weight: 300;
+ border-radius: 4px;
+ letter-spacing: 0.2px;
+ border: none;
+}
+
+.pcontb .buynow:hover {
+ background-color: #eee;
+ color: #003399;
+}
+
+
+
 
 
 
