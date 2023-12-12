@@ -665,11 +665,11 @@ div.testcont {
 
 /* FAQs */
 #faqs {
- padding: 4% 20px;
+ padding: 3% 20px;
 }
 
 div.fqc {
- margin-top: 60px;
+ margin-top: 50px;
 }
 
 #faqs h3 {
@@ -704,7 +704,7 @@ div.fqc {
  margin-bottom: 25px;
 }
 
-#faqs span{
+#faqs span {
  text-transform: capitalize;
  text-decoration: underline;
  font-weight: 600;
@@ -719,20 +719,147 @@ div.fqc {
  animation: bounce 2s infinite;
 }
 
-#faqs h5{
+#faqs h5 {
  font-size: calc(18px + 0.1vw);
  font-weight: 600;
  letter-spacing: 0.4px;
- margin: 30px 0;
+ margin: 20px 0;
 }
 
+/* Subscribe Now */
+#subscribe {
+ text-align: center;
+ padding: 4.5% 20px;
+ color: #fff;
+ background-color: #131522;
+}
 
+#subscribe h3 {
+ font-size: calc(15px + 0.15vw);
+ text-transform: uppercase;
+ margin: 0 0 8px;
+ padding: 0;
+}
 
+#subscribe h2 {
+ font-size: calc(27px + 0.1vw);
+ font-weight: 800;
+ letter-spacing: 0.3px;
+ margin: 0 0 8px;
+}
 
+#subscribe p {
+ font-size: calc(16px + 0.1vw);
+ letter-spacing: 0.4px;
+}
 
+input.maile {
+ width: 30%;
+ padding: 6px 13px;
+ border-radius: 4px;
+ border: none;
+ margin-right: 4px;
+ font-size: calc(14px + 0.15vw);
+ letter-spacing: 0px;
+}
 
+input.subme {
+ background-color: #003399;
+ color: #fff;
+ padding: 6px 20px;
+ border-radius: 5px;
+ border: none;
+ font-size: calc(14px + 0.15vw);
+}
 
+/* Footer Section */
+#footer {
+ background-color: #F9F9FE;
+ padding: 4% 20px 3%;
+ color: #241C15;
+}
 
+#footer a {
+ text-decoration: none;
+ color: #003399;
+}
+
+#footer img {
+ width: 47%;
+ margin: 0 0 30px;
+ padding: 0;
+}
+
+#footer h2 {
+ font-size: calc(16.5px + 0.1vw);
+ letter-spacing: 0.6px;
+ font-weight: 600;
+ margin: 0 0 10px;
+}
+
+#footer h3 {
+ font-size: calc(15.5px + 0.1vw);
+ margin: 0 0 10px;
+}
+
+#footer h4 {
+ color: #003399;
+ font-size: calc(17px + 0.1vw);
+ margin: 0 0 10px;
+ letter-spacing: 0.2px;
+ text-transform: capitalize;
+}
+
+#footer ul {
+ margin: 0;
+ padding: 0;
+}
+
+#footer li {
+ list-style: none;
+ text-transform: capitalize;
+ margin: 0 0 6px;
+ font-size: calc(14px + 0.1vw);
+ letter-spacing: 0.1px;
+}
+
+#footer li:hover {
+ color: #060A57;
+}
+
+#copyright {
+ padding: 2% 20px;
+ text-align: center;
+ background-color: #F9F9FE;
+}
+
+#copyright a {
+ text-decoration: none;
+ color: #003399;
+}
+
+#copyright h2 {
+ font-size: calc(14.5px + 0.1vw);
+ font-weight: 600;
+ letter-spacing: 0.4px;
+ text-transform: capitalize;
+ margin: 0 0 8px;
+}
+
+#copyright p {
+ font-size: calc(12px + 0.1vw);
+ letter-spacing: 0.4px;
+}
+
+div.socialss {
+ margin-left: 45%;
+ padding: 0;
+}
+
+#copyright svg {
+ color: #506B9C;
+ margin: 0 6px;
+}
 
 
 
