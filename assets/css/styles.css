@@ -1,10 +1,10 @@
-@import url(https://db.onlinewebfonts.com/c/0435447fd9d43de93de189e00f2f3dcf?family=Cerebri+Sans+Pro);
 
 * {
  margin: 0;
  padding: 0;
  box-sizing: border-box;
  font-family: 'Cerebri Sans Pro';
+ font-display: swap;
 }
 
 a {
@@ -32,6 +32,10 @@ a.nav-link {
  font-weight: 600;
  padding: 0 5px 0 0;
  letter-spacing: 0.3px;
+}
+
+a.act{
+ color: #003399;
 }
 
 a.nav-link:hover {
