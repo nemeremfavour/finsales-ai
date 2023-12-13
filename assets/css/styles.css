@@ -34,7 +34,7 @@ a.nav-link {
  font-size: calc(14px + 0.15vw);
  font-weight: 500;
  padding: 0 5px 0 0;
- letter-spacing: 0.3px;
+ letter-spacing: 0.2px;
 }
 
 a.act {
@@ -92,7 +92,7 @@ button.bn1:hover {
  font-weight: 500;
  padding-right: 13%;
  line-height: 1.45;
- letter-spacing: -0.1px;
+ letter-spacing: -0.2px;
 }
 
 button.b1 {
@@ -218,7 +218,7 @@ div.val {
  border: 1px solid #fff;
  padding: 8px 30px;
  margin: 0;
- letter-spacing: 0.1px;
+ letter-spacing: 0.2px;
 }
 
 /* Features */
@@ -295,13 +295,13 @@ div.sta span {
  font-size: calc(18px + 0.15vw);
  font-weight: 600;
  margin: 0;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
 
 }
 
 div.sta p {
  font-size: calc(13px + 0.1vw);
- letter-spacing: -0.4px;
+ letter-spacing: -0.2px;
  margin: 0;
 }
 
@@ -382,7 +382,7 @@ div.pricingbtn {
  padding: 8px 25px;
  font-size: calc(13px + 0.1vw);
  font-weight: 600;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
  margin: 0 -4px 0 0;
 }
 
@@ -399,7 +399,7 @@ div.pricingbtn {
  padding: 8px 30px;
  font-size: calc(13px + 0.1vw);
  font-weight: 600;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
  margin: 0 0 0 -4px;
 }
 
@@ -427,7 +427,7 @@ div.pricingbtn {
  color: #003399;
  font-size: calc(12px + 0.2vw);
  font-weight: 600;
- letter-spacing: 0.3px;
+ letter-spacing: 0.2px;
  margin: 0 0 10px;
  padding: 0;
 }
@@ -436,7 +436,7 @@ div.pricingbtn {
  color: #000;
  font-size: calc(30px + 0.2vw);
  font-weight: 900;
- letter-spacing: 0.1px;
+ letter-spacing: 0.2px;
  margin: 0 0 10px;
  padding: 0;
 }
@@ -445,7 +445,7 @@ div.pricingbtn {
  color: #808080d8;
  font-size: calc(14px + 0.1vw);
  font-weight: 600;
- letter-spacing: 0.1px;
+ letter-spacing: 0.2px;
  padding: 0;
  margin: 0 0 10px;
 }
@@ -502,7 +502,7 @@ div.pricingbtn {
  color: #fff;
  font-size: calc(12px + 0.2vw);
  font-weight: 600;
- letter-spacing: 0.3px;
+ letter-spacing: 0.2px;
  margin: 0 0 10px;
  padding: 0;
 }
@@ -511,7 +511,7 @@ div.pricingbtn {
  color: #fff;
  font-size: calc(30px + 0.2vw);
  font-weight: 900;
- letter-spacing: 0.1px;
+ letter-spacing: 0.2px;
  margin: 0 0 10px;
  padding: 0;
 }
@@ -520,7 +520,7 @@ div.pricingbtn {
  color: #fff;
  font-size: calc(14px + 0.1vw);
  font-weight: 600;
- letter-spacing: 0.1px;
+ letter-spacing: 0.2px;
  padding: 0;
  margin: 0 0 10px;
 }
@@ -583,7 +583,7 @@ div.pricingbtn {
  padding: 0;
  font-size: calc(25px + 0.1vw);
  font-weight: 700;
- letter-spacing: 0.3px;
+ letter-spacing: 0.2px;
  text-align: center;
 }
 
@@ -622,8 +622,8 @@ div.testcont {
 .testp {
  font-size: calc(16.5px + 0.1vw);
  padding-right: 50px;
- line-height: 1.65;
- letter-spacing: 0.3px;
+ line-height: 1.5;
+ letter-spacing: 0.2px;
  margin-bottom: 45px;
 }
 
@@ -633,14 +633,14 @@ div.testcont {
  font-weight: 600;
  margin: 0;
  padding: 0;
- letter-spacing: 0.3px;
+ letter-spacing: 0.2px;
 }
 
 .compy {
  font-size: calc(15px + 0.1vw);
  color: #828282;
  font-weight: 400;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
  margin: 0;
 }
 
@@ -684,7 +684,7 @@ div.fqc {
  color: #003399;
  font-size: calc(15px + 0.15vw);
  font-weight: 600;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
  margin: 0 0 10px;
  padding: 0;
 }
@@ -694,20 +694,20 @@ div.fqc {
  padding: 0;
  font-size: calc(27px + 0.1vw);
  font-weight: 700;
- letter-spacing: 0.3px;
+ letter-spacing: 0.2px;
 }
 
 #faqs h4 {
  font-size: calc(19px + 0.15vw);
  font-weight: 600;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
  margin: 5px 0;
 }
 
 #faqs p {
  font-size: calc(17px + 0.1vw);
- letter-spacing: 0.4px;
- line-height: 1.65;
+ letter-spacing: 0.2px;
+ line-height: 1.5;
  margin-bottom: 25px;
 }
 
@@ -729,7 +729,7 @@ div.fqc {
 #faqs h5 {
  font-size: calc(18px + 0.1vw);
  font-weight: 600;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
  margin: 20px 0;
 }
 
@@ -751,13 +751,13 @@ div.fqc {
 #subscribe h2 {
  font-size: calc(27px + 0.1vw);
  font-weight: 800;
- letter-spacing: 0.3px;
+ letter-spacing: 0.2px;
  margin: 0 0 8px;
 }
 
 #subscribe p {
  font-size: calc(16px + 0.1vw);
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
 }
 
 input.maile {
@@ -799,7 +799,7 @@ input.subme {
 
 #footer h2 {
  font-size: calc(16.5px + 0.1vw);
- letter-spacing: 0.6px;
+ letter-spacing: 0.3px;
  font-weight: 600;
  margin: 0 0 10px;
 }
@@ -827,7 +827,7 @@ input.subme {
  text-transform: capitalize;
  margin: 0 0 6px;
  font-size: calc(14px + 0.1vw);
- letter-spacing: 0.1px;
+ letter-spacing: 0.2px;
 }
 
 #footer li:hover {
@@ -848,14 +848,14 @@ input.subme {
 #copyright h2 {
  font-size: calc(14.5px + 0.1vw);
  font-weight: 600;
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
  text-transform: capitalize;
  margin: 0 0 8px;
 }
 
 #copyright p {
  font-size: calc(12px + 0.1vw);
- letter-spacing: 0.4px;
+ letter-spacing: 0.2px;
 }
 
 div.socialss {
@@ -927,7 +927,7 @@ div.socialss {
   font-size: calc(29px + 0.1vw);
   font-weight: 800;
   padding: 0;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.2px;
   line-height: 1.2;
  }
 
@@ -946,7 +946,7 @@ div.socialss {
   border: 1px solid #fff;
   padding: 6px 25px;
   margin: 0 3px 0 0;
-  letter-spacing: -0.1px;
+  letter-spacing: -0.2px;
  }
 
  button.b2 {
@@ -956,7 +956,7 @@ div.socialss {
   border: 1px solid #fff;
   padding: 6px 25px;
   margin: 0 7px 0 0;
-  letter-spacing: -0.1px;
+  letter-spacing: -0.2px;
  }
 
  img.hero-img {
@@ -1030,7 +1030,7 @@ div.socialss {
   border: 1px solid #fff;
   padding: 6px 25px;
   margin: 0;
-  letter-spacing: 0.1px;
+  letter-spacing: 0.2px;
  }
 
  /* Features */
@@ -1108,13 +1108,13 @@ div.socialss {
   font-size: calc(18px + 0.1vw);
   font-weight: 600;
   margin: 0;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.2px;
 
  }
 
  div.sta p {
   font-size: calc(12px + 0.1vw);
-  letter-spacing: -0.3px;
+  letter-spacing: -0.2px;
   margin: 0;
  }
 
@@ -1192,7 +1192,7 @@ div.socialss {
   padding: 6px 20px;
   font-size: calc(12px + 0.1vw);
   font-weight: 600;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.2px;
   margin: 0 -3px 0 0;
  }
 
@@ -1201,13 +1201,13 @@ div.socialss {
   padding: 6px 20px;
   font-size: calc(12px + 0.1vw);
   font-weight: 600;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.2px;
   margin: 0 0 0 -4px;
  }
 
  /* Price Table */
  #prices {
-  padding: 0 20px 5%;
+  padding: 0 20px 6.5%;
   z-index: 1;
  }
 
@@ -1224,7 +1224,7 @@ div.socialss {
  .pcont h4 {
   font-size: calc(12px + 0.1vw);
   font-weight: 600;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.2px;
   margin: 0 0 6px;
   padding: 0;
  }
@@ -1232,7 +1232,7 @@ div.socialss {
  .pcont h2 {
   font-size: calc(24px + 0.1vw);
   font-weight: 700;
-  letter-spacing: 0.1px;
+  letter-spacing: 0.2px;
   margin: 0 0 6px;
   padding: 0;
  }
@@ -1240,7 +1240,7 @@ div.socialss {
  .month {
   font-size: calc(12px + 0.1vw);
   font-weight: 600;
-  letter-spacing: 0.1px;
+  letter-spacing: 0.2px;
   padding: 0;
   margin: 0 0 6px;
  }
@@ -1261,13 +1261,11 @@ div.socialss {
   padding: 0;
   margin: 0 0 7px;
   font-size: calc(13px + 0.1vw);
-  letter-spacing: 0.3px;
+  letter-spacing: 0.2px;
  }
 
  .pcont .buynow {
-  background-color: #003399;
-  color: #fff;
-  padding: 7px 22px;
+  padding: 6px 21px;
   font-size: calc(11px + 0.1vw);
   font-weight: 300;
   border-radius: 4px;
@@ -1275,11 +1273,339 @@ div.socialss {
   border: none;
  }
 
- .pcont .buynow:hover {
-  background-color: #012970;
-  color: #fff;
+ .pcontb {
+  padding: 30px 16px;
+  margin: -30px 0 0;
+  border-radius: 16px;
  }
 
+ .pcontb h4 {
+  font-size: calc(12px + 0.1vw);
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  margin: 0 0 6px;
+  padding: 0;
+ }
+
+ .pcontb h2 {
+  font-size: calc(24px + 0.1vw);
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  margin: 0 0 6px;
+  padding: 0;
+ }
+
+ .monthb {
+  font-size: calc(12px + 0.1vw);
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  padding: 0;
+  margin: 0 0 6px;
+ }
+
+ .pcontb ul {
+  padding: 0;
+  margin: 0 0 20px;
+  list-style: none;
+ }
+
+ .pcontb svg {
+  margin-right: 2px;
+  color: #fff;
+  font-size: 14px;
+ }
+
+ .pcontb li {
+  padding: 0;
+  margin: 0 0 7px;
+  font-size: calc(13px + 0.1vw);
+  letter-spacing: 0.2px;
+ }
+
+ .pcontb .buynow {
+  padding: 6px 21px;
+  font-size: calc(11px + 0.1vw);
+  font-weight: 300;
+  border-radius: 4px;
+  letter-spacing: 0.2px;
+  border: none;
+ }
+
+ /* Testimonials */
+ #testimonials {
+  padding: 5% 40px;
+ }
+
+ #testimonials h3 {
+  text-transform: uppercase;
+  font-size: calc(12px + 0.1vw);
+  font-weight: 500;
+  margin: 5px 0;
+  padding: 0;
+  text-align: center;
+ }
+
+ #testimonials h2 {
+  text-transform: capitalize;
+  font-size: calc(20px + 0.1vw);
+  font-weight: 600;
+  margin: 0 0 30px;
+  padding: 0;
+  text-align: center;
+ }
+
+ .testimg {
+  width: 99%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+ }
+
+ .like {
+  margin-top: -45px;
+  margin-left: -15px;
+  width: 15%;
+ }
+
+ .tumb {
+  width: 11%;
+  margin-left: 90%;
+  padding: 0;
+ }
+
+ div.testcont {
+  padding: 0 0 0 15px;
+ }
+
+ .quot {
+  width: 9%;
+  padding: 0;
+  margin-bottom: 10px;
+ }
+
+ .testp {
+  font-size: calc(13.5px + 0.2vw);
+  margin: 0 0 10px;
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+  padding: 0;
+ }
+
+ .ceo {
+  font-size: calc(15px + 0.1vw);
+ }
+
+ .compy {
+  font-size: calc(14px + 0.1vw);
+  color: #828282;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  margin: 0;
+ }
+
+ .navbts {
+  padding: 0;
+  margin: 10px 0 0 78%;
+ }
+
+ .navbts button {
+  padding: 2px;
+  margin: 0;
+  border: none;
+ }
+
+ .navbts svg.leff {
+  color: #8480ae9a;
+  font-size: 25px;
+ }
+
+ .navbts svg.rigg {
+  color: #003399;
+  font-size: 25px;
+ }
+
+ /* FAQs */
+ #faqs {
+  padding: 4.5% 20px;
+ }
+
+ div.fqc {
+  margin: 0;
+ }
+
+ #faqs h3 {
+  text-transform: uppercase;
+  font-size: calc(12px + 0.1vw);
+  font-weight: 600;
+  margin: 0 0 10px;
+  padding: 0;
+ }
+
+ #faqs h2 {
+  margin: 0 0 20px;
+  padding: 0;
+  font-size: calc(20px + 0.1vw);
+  font-weight: 700;
+  letter-spacing: 0.2px;
+ }
+
+ #faqs h4 {
+  font-size: calc(17px + 0.1vw);
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  margin: 5px 0;
+ }
+
+ #faqs p {
+  font-size: calc(13.5px + 0.2vw);
+  margin: 0 0 10px;
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+  padding: 0;
+ }
+
+ .faq {
+  width: 99%;
+  margin-left: 10px;
+  margin-right: auto;
+
+  /* Bounce Effect */
+  animation: bounce 2s infinite;
+ }
+
+ #faqs h5 {
+  font-size: calc(16px + 0.1vw);
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  margin: 15px 0;
+ }
+
+ /* Subscribe Now */
+ #subscribe {
+  text-align: center;
+  padding: 4% 20px;
+  color: #fff;
+  background-color: #131522;
+ }
+
+ #subscribe h3 {
+  font-size: calc(12px + 0.1vw);
+  text-transform: uppercase;
+  margin: 0 0 5px;
+  padding: 0;
+ }
+
+ #subscribe h2 {
+  font-size: calc(20px + 0.1vw);
+  font-weight: 800;
+  letter-spacing: 0.2px;
+  margin: 0 0 5px;
+ }
+
+ #subscribe p {
+  font-size: calc(13px + 0.15vw);
+  letter-spacing: 0.2px;
+  margin: 0 0 15px;
+ }
+
+ input.maile {
+  width: 35%;
+  padding: 5px 12px;
+  border-radius: 4px;
+  border: none;
+  margin-right: 4px;
+  font-size: calc(13px + 0.15vw);
+  letter-spacing: 0.2px;
+ }
+
+ input.subme {
+  background-color: #003399;
+  color: #fff;
+  padding: 5px 12px;
+  border-radius: 5px;
+  border: none;
+  font-size: calc(13px + 0.15vw);
+ }
+
+ /* Footer Section */
+ #footer {
+  padding: 4% 20px 1%;
+ }
+
+ #footer a {
+  text-decoration: none;
+  color: #003399;
+ }
+
+ #footer img {
+  width: 46%;
+  margin: 0 0 15px;
+  padding: 0;
+ }
+
+ #footer h2 {
+  font-size: calc(15.5px + 0.1vw);
+  letter-spacing: 0.3px;
+  font-weight: 600;
+  margin: 0 0 10px;
+ }
+
+ #footer h3 {
+  font-size: calc(14.5px + 0.1vw);
+  margin: 0 0 10px;
+ }
+
+ #footer h4 {
+  color: #003399;
+  font-size: calc(15.5px + 0.1vw);
+  margin: 0 0 10px;
+  letter-spacing: 0.2px;
+  text-transform: capitalize;
+ }
+
+ #footer li {
+  list-style: none;
+  text-transform: capitalize;
+  margin: 0 0 6px;
+  font-size: calc(14px + 0.1vw);
+  letter-spacing: 0.2px;
+ }
+
+ #footer li:hover {
+  color: #060A57;
+ }
+
+ #copyright {
+  padding: 2% 20px;
+  text-align: center;
+ }
+
+ #copyright a {
+  text-decoration: none;
+ }
+
+ #copyright h2 {
+  font-size: calc(13.5px + 0.1vw);
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  text-transform: capitalize;
+  margin: 0 0 8px;
+ }
+
+ #copyright p {
+  font-size: calc(12px + 0.1vw);
+  letter-spacing: 0.2px;
+ }
+
+ div.socialss {
+  margin-left: 30%;
+  padding: 0;
+ }
+
+ #copyright svg {
+  color: #506B9C;
+  margin: 0 3px;
+ }
 
 }
 
