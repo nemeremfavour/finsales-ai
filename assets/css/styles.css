@@ -4,6 +4,7 @@ body {
  box-sizing: border-box;
  font-family: 'Cerebri Sans Pro';
  font-display: swap;
+ overflow-x: hidden;
 }
 
 a {
@@ -1747,6 +1748,7 @@ div.socialss {
  /* Our Values */
  #our-values {
   padding: 1% 20px 4%;
+  overflow: hidden;
  }
 
  div.val {
@@ -1759,7 +1761,7 @@ div.socialss {
  }
 
  #our-values img {
-  width: 100%;
+  width: 99%;
   height: 260px;
   margin-left: auto;
   margin-right: auto;
@@ -2233,7 +2235,7 @@ div.socialss {
  /* Subscribe Now */
  #subscribe {
   text-align: center;
-  padding: 4% 20px;
+  padding: 6% 20px;
   color: #fff;
   background-color: #131522;
  }
