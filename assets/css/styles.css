@@ -1,10 +1,12 @@
-body {
+* {
+ overflow-x: hidden;
  margin: 0;
  padding: 0;
- box-sizing: border-box;
+}
+
+body {
  font-family: 'Cerebri Sans Pro';
  font-display: swap;
- overflow-x: hidden;
 }
 
 a {
