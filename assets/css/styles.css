@@ -1673,7 +1673,7 @@ div.socialss {
  }
 
  .heroh1 {
-  font-size: calc(29px + 0.1vw);
+  font-size: calc(28px + 0.1vw);
   font-weight: 700;
   padding: 0;
   margin: 0 0 15px;
@@ -1762,7 +1762,7 @@ div.socialss {
 
  #our-values img {
   width: 99%;
-  height: 260px;
+  height: 80%;
   margin-left: auto;
   margin-right: auto;
  }
